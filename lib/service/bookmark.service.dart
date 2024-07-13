@@ -1,0 +1,5 @@
+class BookmarkService {
+  saveBookmark() async{
+
+  }
+}
